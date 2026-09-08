@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Yamini Mallula
 
-<!--
-**yamini-mallula/yamini-mallula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Technology Graduate | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+🎓 B.Tech in Information Technology at Shri Vishnu Engineering College for Women (2022–2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Java, Data Structures & Algorithms, and Web Development.
+
+🌱 Currently learning Spring Boot and building real-world projects.
+
+📫 Reach me at **mallulayamini93@gmail.com**
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,mongodb,git,github,vscode,postman" />
+</p>
